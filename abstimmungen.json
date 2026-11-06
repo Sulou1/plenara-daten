@@ -1,5 +1,795 @@
 [
   {
+    "id": "f0af8b1f7667a219",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 351 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8591",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8591",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108591.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "e1e1324d14a737f5",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Gesetz zu dem Protokoll vom 9. Juni 2026 zur Änderung des Abkommens vom 6. April 2010 zwischen der Bundesrepublik Deutschland und der Republik Albanien zur Vermeidung der Doppelbesteuerung und der Steuerverkürzung auf dem Gebiet der Steuern vom Einkommen und vom Vermögen",
+    "art": "Drucksache 21/8244",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8244",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108244.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "c3844eb691f99d1d",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Wahl eines vom Deutschen Bundestag zu benennenden Mitgliedes des Kuratoriums des Deutschen Instituts für Menschenrechte gemäß § 6 Absatz 2 Nummer 5 des Gesetzes über die Rechtsstellung und Aufgaben des Deutschen Instituts für Menschenrechte",
+    "art": "Drucksache 21/8786",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8786",
+        "url": "https://dserver.bundestag.de/btd/21/087/2108786.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "bed9e8c4151a8b71",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 341 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8581",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8581",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108581.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "bd12fcf225cf2464",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 346 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8586",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8586",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108586.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "b95bc3a81ff5475c",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Völkerrecht stärken, durchsetzen und weiterentwickeln - Für eine handlungsfähige internationale Rechtsordnung",
+    "art": "Drucksache 21/8911",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8911",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108911.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "b5497311e194152d",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 345 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8585",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8585",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108585.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "b4c116b3c7b9c247",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 348 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8588",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8588",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108588.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "aaa57adf1f99acfb",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 343 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8583",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8583",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108583.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "a9e951b39c770815",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Gesetz zur besseren Bekämpfung der Kriminalität von Kindern, Jugendlichen und Heranwachsenden",
+    "art": "Drucksache 21/333",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/333",
+        "url": "https://dserver.bundestag.de/btd/21/003/2100333.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "99220cc9bf76a6c9",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Ein Tierschutzgesetz, das Tiere wirksam schützt",
+    "art": "Drucksache 21/139",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/139",
+        "url": "https://dserver.bundestag.de/btd/21/001/2100139.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "enth",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "98b50af6ce8c6966",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Gesetz zu dem Vertrag vom 29. April 2024 zwischen der Bundesrepublik Deutschland und dem Königreich Belgien über die Polizei- und Zollzusammenarbeit (Deutsch-Belgischer Polizeivertrag)",
+    "art": "Drucksache 21/8242",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8242",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108242.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "960e62318748d1de",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Wahl eines vom Deutschen Bundestag zu benennenden Mitglieds des Deutschen Ethikrats gemäß den §§ 4 und 5 des Ethikratgesetzes",
+    "art": "Drucksache 21/6462",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/6462",
+        "url": "https://dserver.bundestag.de/btd/21/064/2106462.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "823d3b129f2be706",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Schutz von Kindern und Jugendlichen vor religiösem Zwang, Mobbing und gruppendynamischem Druck stärken - Auch Konversionsdruck wirksam begegnen",
+    "art": "Drucksache 21/4941",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/4941",
+        "url": "https://dserver.bundestag.de/btd/21/049/2104941.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "7f1a8a6fcf679ba4",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Ärztliche Ausbildung und Weiterbildung zum Facharzt bei Ambulantisierung der Versorgung sicherstellen und weiterentwickeln",
+    "art": "Drucksache 21/1748",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/1748",
+        "url": "https://dserver.bundestag.de/btd/21/017/2101748.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "7e8e4eae30d3ffb8",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Führerschein für 1 Euro - Bezahlbarer Führerschein für Ausbildung und Arbeit",
+    "art": "Drucksache 21/3558",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/3558",
+        "url": "https://dserver.bundestag.de/btd/21/035/2103558.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "76b64f8d365aef25",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Wiederherstellung wirksamer Länderkompetenzen bei Ausnahmen von Mindestmengen - Kliniken im ländlichen Raum erhalten",
+    "art": "Drucksache 21/6355",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/6355",
+        "url": "https://dserver.bundestag.de/btd/21/063/2106355.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "73f05e37af507395",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 342 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8582",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8582",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108582.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "69cbae9d9641485a",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Entschließungsantrag zum Fünften Gesetz zur Änderung des Tierschutzgesetzes",
+    "art": "Drucksache 21/8976",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8976",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108976.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "68f2d0f17dd2b576",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Gesetz zur Änderung des Tierschutzgesetzes und des Tierhaltungskennzeichnungsgesetzes",
+    "art": "Drucksache 21/6809, 21/8974",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/6809",
+        "url": "https://dserver.bundestag.de/btd/21/068/2106809.pdf"
+      },
+      {
+        "titel": "Drucksache 21/8974",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108974.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "50d20c80bdb2f388",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Entschließungsantrag zum Gesetz zur Änderung des Fahrlehrergesetzes und anderer straßenverkehrsrechtlicher Gesetze",
+    "art": "Drucksache 21/8980",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8980",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108980.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "45b36d67a4561a18",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Völkerstrafrecht verteidigen - Internationalen Strafgerichtshof gegen Angriffe schützen",
+    "art": "Drucksache 21/8929",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8929",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108929.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "enth",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "41060eca671b55c7",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 350 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8590",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8590",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108590.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "2c1fc87f42e536bd",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Entschließungsantrag zum 16. Bericht der Bundesregierung über ihre Menschenrechtspolitik",
+    "art": "Drucksache 21/8951",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8951",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108951.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "245d49a033de3f0f",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Gesetz zur Änderung der Bevorrechtigung der Verwendung elektrisch betriebener Fahrzeuge sowie damit zusammenhängender straßenverkehrsrechtlicher Vorschriften",
+    "art": "Drucksache 21/7872, 21/8949",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/7872",
+        "url": "https://dserver.bundestag.de/btd/21/078/2107872.pdf"
+      },
+      {
+        "titel": "Drucksache 21/8949",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108949.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "enth",
+      "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "23b767d2033b49d8",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 347 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8587",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8587",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108587.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "1d3e6560b07fe9f5",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Gesetz zu dem Abkommen vom 19. Mai 2026 zwischen der Bundesrepublik Deutschland und der Ukraine zur Beseitigung der Doppelbesteuerung auf dem Gebiet der Steuern vom Einkommen sowie zur Verhinderung der Steuerverkürzung und -umgehung",
+    "art": "Drucksache 21/8245",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8245",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108245.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "1502080fe7f23f0d",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 344 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8584",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8584",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108584.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "0b34a0e40dac66b4",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Völkerstrafrecht verteidigen - Internationalen Strafgerichtshof vor Sanktionen schützen",
+    "art": "Drucksache 21/8562",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8562",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108562.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "bd3176481216d8d0",
     "ebene": "Bund",
     "datum": "2026-11-04",
