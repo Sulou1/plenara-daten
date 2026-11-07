@@ -72,6 +72,7 @@
       }
     ],
     "positionen": {
+      "U": "nein",
       "A": "ja",
       "S": "nein",
       "G": "nein",
@@ -350,6 +351,33 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "877c66a6cec32cfe",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Sammelübersicht 349 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8589",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8589",
+        "url": "https://dserver.bundestag.de/btd/21/085/2108589.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "823d3b129f2be706",
     "ebene": "Bund",
     "datum": "2026-11-05",
@@ -566,6 +594,33 @@
       "S": "nein",
       "G": "ja",
       "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "4cd0c0f176f3113a",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "Keine verpflichtende Videoüberwachung in Schlachthöfen in Deutschland",
+    "art": "Drucksache 21/4944",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/4944",
+        "url": "https://dserver.bundestag.de/btd/21/049/2104944.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
