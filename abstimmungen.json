@@ -1,5 +1,83 @@
 [
   {
+    "id": "3e4b145a619ee63b",
+    "ebene": "Bund",
+    "datum": "2026-11-06",
+    "titel": "Beendigung der Mitwirkung der Bundesrepublik Deutschland am Zwischenstaatlichen Ausschuss für Klimaänderungen und Neuausrichtung der nationalen wissenschaftlichen Politikberatung zu Umwelt- und Klimathemen",
+    "art": "Drucksache 21/4464",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/4464",
+        "url": "https://dserver.bundestag.de/btd/21/044/2104464.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/106",
+        "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    }
+  },
+  {
+    "id": "2bb74378e5a98bc6",
+    "ebene": "Bund",
+    "datum": "2026-11-06",
+    "titel": "Globale Solidarität von Berlin bis Belém - für das Menschenrecht auf Klimaschutz - Greenwashing bei der UN-Klimakonferenz verhindern",
+    "art": "Drucksache 21/2535",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/2535",
+        "url": "https://dserver.bundestag.de/btd/21/025/2102535.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/106",
+        "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "enth",
+      "L": "ja"
+    }
+  },
+  {
+    "id": "1f1b9eecbcdd709c",
+    "ebene": "Bund",
+    "datum": "2026-11-06",
+    "titel": "Weltklimakonferenz in Antalya - Klimaschutz als Zukunftsinvestition und Wettbewerbsfaktor",
+    "art": "Drucksache 21/8913",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8913",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108913.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/106",
+        "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    }
+  },
+  {
     "id": "f0af8b1f7667a219",
     "ebene": "Bund",
     "datum": "2026-11-05",
