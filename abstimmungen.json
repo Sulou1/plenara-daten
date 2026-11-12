@@ -1,5 +1,31 @@
 [
   {
+    "id": "a4b62c2993fd393f",
+    "ebene": "Bund",
+    "datum": "2026-11-06",
+    "titel": "Entschließungsantrag zum ... Gesetz zur Änderung des Strafgesetzbuches - Stärkung des strafrechtlichen Schutzes vor sogenannten K.-o.-Tropfen",
+    "art": "Drucksache 21/8972",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8972",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108972.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/106",
+        "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "enth"
+    }
+  },
+  {
     "id": "3e4b145a619ee63b",
     "ebene": "Bund",
     "datum": "2026-11-06",
@@ -75,6 +101,36 @@
       "S": "ja",
       "G": "ja",
       "L": "nein"
+    }
+  },
+  {
+    "id": "0a95fea065a0b82a",
+    "ebene": "Bund",
+    "datum": "2026-11-06",
+    "titel": "... Gesetz zur Änderung des Strafgesetzbuches - Stärkung des strafrechtlichen Schutzes vor sogenannten K.-o.-Tropfen",
+    "art": "Drucksache 21/7560, 21/8947",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/7560",
+        "url": "https://dserver.bundestag.de/btd/21/075/2107560.pdf"
+      },
+      {
+        "titel": "Drucksache 21/8947",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108947.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/106",
+        "url": "https://dserver.bundestag.de/btp/21/21106.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "enth",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
     }
   },
   {
