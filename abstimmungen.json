@@ -1,5 +1,31 @@
 [
   {
+    "id": "d80394cc2fea15fc",
+    "ebene": "Bund",
+    "datum": "2026-11-11",
+    "titel": "Bildungsfinanzierung dauerhaft sichern - Kooperationsverbot abschaffen",
+    "art": "Drucksache 21/1594",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/1594",
+        "url": "https://dserver.bundestag.de/btd/21/015/2101594.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/107",
+        "url": "https://dserver.bundestag.de/btp/21/21107.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "enth",
+      "L": "ja"
+    }
+  },
+  {
     "id": "a4b62c2993fd393f",
     "ebene": "Bund",
     "datum": "2026-11-06",
