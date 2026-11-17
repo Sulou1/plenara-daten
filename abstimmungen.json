@@ -1,5 +1,811 @@
 [
   {
+    "id": "fb7a52d714e0a584",
+    "ebene": "Bund",
+    "datum": "2026-11-13",
+    "titel": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN",
+    "art": "Drucksache 21/8819",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8819",
+        "url": "https://dserver.bundestag.de/btd/21/088/2108819.pdf"
+      },
+      {
+        "titel": "Ergebnis der namentlichen Abstimmung (13.11.2026)",
+        "url": "https://www.bundestag.de/resource/blob/1233222/20261113_4.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/109",
+        "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+      }
+    ],
+    "gesamt": [
+      371,
+      186,
+      2
+    ],
+    "stimmen": {
+      "U": [
+        199,
+        0,
+        0
+      ],
+      "A": [
+        0,
+        132,
+        0
+      ],
+      "S": [
+        106,
+        1,
+        1
+      ],
+      "G": [
+        65,
+        1,
+        1
+      ],
+      "L": [
+        0,
+        51,
+        0
+      ]
+    }
+  },
+  {
+    "id": "e815bb2e375791d0",
+    "ebene": "Bund",
+    "datum": "2026-11-13",
+    "titel": "Entschließungsantrag zum Gesetz zur Reform des Nachrichtendienstrechts",
+    "art": "Drucksache 21/9166",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9166",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109166.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/109",
+        "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "enth"
+    }
+  },
+  {
+    "id": "c79a981a99df3b0c",
+    "ebene": "Bund",
+    "datum": "2026-11-13",
+    "titel": "Gesetz zu dem Partnerschaftsabkommen vom 17. Januar 2026 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und dem Gemeinsamen Markt des Südens, der Argentinischen Republik, der Föderativen Republik Brasilien, der Republik Paraguay und der Republik Östlich des Uruguay andererseits",
+    "art": "Drucksache 21/8240",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8240",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108240.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/109",
+        "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    }
+  },
+  {
+    "id": "bb7a7333cbd0924b",
+    "ebene": "Bund",
+    "datum": "2026-11-13",
+    "titel": "Gesetz zur Reform des Nachrichtendienstrechts",
+    "art": "Drucksache 21/7868, 21/9161",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/7868",
+        "url": "https://dserver.bundestag.de/btd/21/078/2107868.pdf"
+      },
+      {
+        "titel": "Drucksache 21/9161",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109161.pdf"
+      },
+      {
+        "titel": "Ergebnis der namentlichen Abstimmung (13.11.2026)",
+        "url": "https://www.bundestag.de/resource/blob/1233210/20261113_3.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/109",
+        "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+      }
+    ],
+    "gesamt": [
+      308,
+      190,
+      71
+    ],
+    "stimmen": {
+      "U": [
+        201,
+        1,
+        0
+      ],
+      "A": [
+        0,
+        133,
+        0
+      ],
+      "S": [
+        107,
+        1,
+        1
+      ],
+      "G": [
+        0,
+        2,
+        69
+      ],
+      "L": [
+        0,
+        52,
+        0
+      ]
+    }
+  },
+  {
+    "id": "9a6865fc75e33f35",
+    "ebene": "Bund",
+    "datum": "2026-11-13",
+    "titel": "Entschließungsantrag zum Gesetz zur Reform des Nachrichtendienstrechts",
+    "art": "Drucksache 21/9167",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9167",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109167.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/109",
+        "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "nein",
+      "L": "ja"
+    }
+  },
+  {
+    "id": "322843203e6514a2",
+    "ebene": "Bund",
+    "datum": "2026-11-13",
+    "titel": "Entschließungsantrag zum Gesetz zur Reform des Nachrichtendienstrechts",
+    "art": "Drucksache 21/9165",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9165",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109165.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/109",
+        "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    }
+  },
+  {
+    "id": "f690db300438a3f3",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gesetz zur Änderung des Erneuerbare-Energien-Gesetzes und weiterer Vorschriften zur Umsetzung unionsrechtlicher Vorgaben im Stromsektor",
+    "art": "Drucksache 21/6914",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/6914",
+        "url": "https://dserver.bundestag.de/btd/21/069/2106914.pdf"
+      },
+      {
+        "titel": "Ergebnis der namentlichen Abstimmung (12.11.2026)",
+        "url": "https://www.bundestag.de/resource/blob/1233024/20261112_3.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "gesamt": [
+      131,
+      450,
+      0
+    ],
+    "stimmen": {
+      "U": [
+        0,
+        201,
+        0
+      ],
+      "A": [
+        0,
+        138,
+        0
+      ],
+      "S": [
+        0,
+        109,
+        0
+      ],
+      "G": [
+        76,
+        0,
+        0
+      ],
+      "L": [
+        54,
+        0,
+        0
+      ]
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "eab69880dccfa26c",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG)",
+    "art": "Drucksache 21/9155",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9155",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109155.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "e9882dca1585a57c",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gesetz für mehr Gerechtigkeit durch die Stärkung der Zollverwaltung und die Bekämpfung der Finanzkriminalität",
+    "art": "Drucksache 21/8282, 21/9136",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8282",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108282.pdf"
+      },
+      {
+        "titel": "Drucksache 21/9136",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109136.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "e75ae4918d600d2a",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gesetz zur Stärkung der Cybersicherheit",
+    "art": "Drucksache 21/6585, 21/9159",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/6585",
+        "url": "https://dserver.bundestag.de/btd/21/065/2106585.pdf"
+      },
+      {
+        "titel": "Drucksache 21/9159",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109159.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "e7232ddf72b9e8e5",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Entschließungsantrag zum Gesetz zur Stärkung der Cybersicherheit",
+    "art": "Drucksache 21/9162",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9162",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109162.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "d9b596e777e1008a",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gute Arbeit auf dem Campus - Maßnahmenpaket für wissenschaftliche Karriereperspektiven vorlegen und Generationenwechsel als Reformchance nutzen",
+    "art": "Drucksache 21/6345",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/6345",
+        "url": "https://dserver.bundestag.de/btd/21/063/2106345.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "c67a29a02d705ba5",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gesetz zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG)",
+    "art": "Drucksache 21/8239, 21/9153",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8239",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108239.pdf"
+      },
+      {
+        "titel": "Drucksache 21/9153",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109153.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "gesamt": [
+      457,
+      132,
+      1
+    ],
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "c610f422a56b1cd4",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Entschließungsantrag zum Jahressteuergesetz 2026",
+    "art": "Drucksache 21/9158",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9158",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109158.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "bf8d0226fca42f74",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Bundeswehr-Infrastrukturbeschleunigungsgesetz",
+    "art": "Drucksache 21/8409, 21/9140",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8409",
+        "url": "https://dserver.bundestag.de/btd/21/084/2108409.pdf"
+      },
+      {
+        "titel": "Drucksache 21/9140",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109140.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "92cc49eb0de1e2f4",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG)",
+    "art": "Drucksache 21/9156",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9156",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109156.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "92982e8fd911144f",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gesetz zur Änderung der Abgabenordnung",
+    "art": "Drucksache 21/3025",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/3025",
+        "url": "https://dserver.bundestag.de/btd/21/030/2103025.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "ja",
+      "S": "nein",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "8cceb9e6f1e5a4e4",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sonderbefristungsrecht für die Wissenschaft abschaffen",
+    "art": "Drucksache 21/8384",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8384",
+        "url": "https://dserver.bundestag.de/btd/21/083/2108384.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "nein",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "8404a02006263017",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gesetz zur Modernisierung des Befristungsrechts im Wissenschaftsbereich",
+    "art": "Drucksache 21/8281, 21/9179",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8281",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108281.pdf"
+      },
+      {
+        "titel": "Drucksache 21/9179",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109179.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "enth",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "66a01f1efb944e60",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gesetz zur Modernisierung des Berufsrechts der Wirtschaftsprüfer",
+    "art": "Drucksache 21/16, 21/9138",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/16",
+        "url": "https://dserver.bundestag.de/btd/21/000/2100016.pdf"
+      },
+      {
+        "titel": "Drucksache 21/9138",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109138.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "enth",
+      "S": "ja",
+      "G": "enth",
+      "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "5bd7033d61af24e6",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Zollreform erweitern - Organisierte Steuerkriminalität wirksam verfolgen und eingezogenes Vermögen der Gesellschaft zurückgeben",
+    "art": "Drucksache 21/8391",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8391",
+        "url": "https://dserver.bundestag.de/btd/21/083/2108391.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "5a7c46fce33be702",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Finanzkriminalität bekämpfen - Geldwäsche und organisierte Steuerhinterziehung effektiv verhindern",
+    "art": "Drucksache 21/3248",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/3248",
+        "url": "https://dserver.bundestag.de/btd/21/032/2103248.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "42b2ba3685223141",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Entschließungsantrag zum Bundeswehr-Infrastrukturbeschleunigungsgesetz",
+    "art": "Drucksache 21/9143",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9143",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109143.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "2724285c07df2e9c",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gesetz über die Feststellung des Wirtschaftsplans des ERP-Sondervermögens für das Jahr 2027 (ERP-Wirtschaftsplangesetz 2027 - ERPWiPlanG 2027)",
+    "art": "Drucksache 21/8233",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8233",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108233.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "17463859a9312a9d",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Jahressteuergesetz 2026",
+    "art": "Drucksache 21/8283, 21/9139",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8283",
+        "url": "https://dserver.bundestag.de/btd/21/082/2108283.pdf"
+      },
+      {
+        "titel": "Drucksache 21/9139",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109139.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "0216d4bf2694c5c3",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gegen die Einführung von Hackbacks und offensiver Cyberabwehr",
+    "art": "Drucksache 21/6653",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/6653",
+        "url": "https://dserver.bundestag.de/btd/21/066/2106653.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "enth",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "d80394cc2fea15fc",
     "ebene": "Bund",
     "datum": "2026-11-11",
