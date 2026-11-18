@@ -1,6 +1,32 @@
 [
   {
-    "id": "fb7a52d714e0a584",
+    "id": "9e4071d84883e9f1",
+    "ebene": "Bund",
+    "datum": "2026-11-13",
+    "titel": "Entschließungsantrag zum Gesetz zur Reform des Nachrichtendienstrechts",
+    "art": "Drucksache 21/9167",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9167",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109167.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/109",
+        "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "nein",
+      "L": "ja"
+    }
+  },
+  {
+    "id": "56a9e4bd32c7834d",
     "ebene": "Bund",
     "datum": "2026-11-13",
     "titel": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der NATO-geführten Maritimen Sicherheitsoperation SEA GUARDIAN",
@@ -55,7 +81,7 @@
     }
   },
   {
-    "id": "e815bb2e375791d0",
+    "id": "35b0e82ff5464346",
     "ebene": "Bund",
     "datum": "2026-11-13",
     "titel": "Entschließungsantrag zum Gesetz zur Reform des Nachrichtendienstrechts",
@@ -81,7 +107,7 @@
     }
   },
   {
-    "id": "c79a981a99df3b0c",
+    "id": "246ff8ff255a8e5b",
     "ebene": "Bund",
     "datum": "2026-11-13",
     "titel": "Gesetz zu dem Partnerschaftsabkommen vom 17. Januar 2026 zwischen der Europäischen Union und ihren Mitgliedstaaten einerseits und dem Gemeinsamen Markt des Südens, der Argentinischen Republik, der Föderativen Republik Brasilien, der Republik Paraguay und der Republik Östlich des Uruguay andererseits",
@@ -107,7 +133,7 @@
     }
   },
   {
-    "id": "bb7a7333cbd0924b",
+    "id": "1a173b5358493995",
     "ebene": "Bund",
     "datum": "2026-11-13",
     "titel": "Gesetz zur Reform des Nachrichtendienstrechts",
@@ -166,33 +192,7 @@
     }
   },
   {
-    "id": "9a6865fc75e33f35",
-    "ebene": "Bund",
-    "datum": "2026-11-13",
-    "titel": "Entschließungsantrag zum Gesetz zur Reform des Nachrichtendienstrechts",
-    "art": "Drucksache 21/9167",
-    "thema": "Allgemein",
-    "angenommen": false,
-    "quellen": [
-      {
-        "titel": "Drucksache 21/9167",
-        "url": "https://dserver.bundestag.de/btd/21/091/2109167.pdf"
-      },
-      {
-        "titel": "Plenarprotokoll 21/109",
-        "url": "https://dserver.bundestag.de/btp/21/21109.pdf"
-      }
-    ],
-    "positionen": {
-      "U": "nein",
-      "A": "nein",
-      "S": "nein",
-      "G": "nein",
-      "L": "ja"
-    }
-  },
-  {
-    "id": "322843203e6514a2",
+    "id": "155ee05ad17c7f72",
     "ebene": "Bund",
     "datum": "2026-11-13",
     "titel": "Entschließungsantrag zum Gesetz zur Reform des Nachrichtendienstrechts",
@@ -216,6 +216,33 @@
       "G": "ja",
       "L": "ja"
     }
+  },
+  {
+    "id": "fd7604da06aa7036",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "EUNAVFOR MED IRINI stoppen - Seenotrettung stärken",
+    "art": "Drucksache 21/8909",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8909",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108909.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
     "id": "f690db300438a3f3",
@@ -274,6 +301,33 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "f3c2de06d8903ac4",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 368 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8968",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8968",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108968.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "eab69880dccfa26c",
     "ebene": "Bund",
     "datum": "2026-11-12",
@@ -297,6 +351,33 @@
       "S": "nein",
       "G": "ja",
       "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "e9c661b8e2ba8de9",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Zehnte Beschlussempfehlung des Wahlprüfungsausschusses zu Einsprüchen anlässlich der Wahl zum 21. Deutschen Bundestag am 23. Februar 2025",
+    "art": "Drucksache 21/8900",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8900",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108900.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
@@ -390,6 +471,62 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "e56c9268e57a33c5",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Fortsetzung der Beteiligung bewaffneter deutscher Streitkräfte an der durch die Europäische Union geführten Operation EUNAVFOR MED IRINI",
+    "art": "Drucksache 21/8821",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8821",
+        "url": "https://dserver.bundestag.de/btd/21/088/2108821.pdf"
+      },
+      {
+        "titel": "Ergebnis der namentlichen Abstimmung (12.11.2026)",
+        "url": "https://www.bundestag.de/resource/blob/1233026/20261112_4.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "gesamt": [
+      314,
+      270,
+      3
+    ],
+    "stimmen": {
+      "U": [
+        202,
+        0,
+        0
+      ],
+      "A": [
+        0,
+        139,
+        0
+      ],
+      "S": [
+        109,
+        0,
+        3
+      ],
+      "G": [
+        1,
+        74,
+        0
+      ],
+      "L": [
+        0,
+        56,
+        0
+      ]
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "d9b596e777e1008a",
     "ebene": "Bund",
     "datum": "2026-11-12",
@@ -413,6 +550,33 @@
       "S": "nein",
       "G": "ja",
       "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "d16b312969dffec5",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Leistungssport der Menschen mit Behinderungen - Das Grundgesetz achten und Benachteiligungen beenden",
+    "art": "Drucksache 21/5333",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/5333",
+        "url": "https://dserver.bundestag.de/btd/21/053/2105333.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "enth",
+      "L": "ja"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
@@ -499,6 +663,168 @@
       "A": "nein",
       "S": "ja",
       "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "bebff5e5b964da38",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 362 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8962",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8962",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108962.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "bd180702b09cfed6",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 364 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8964",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8964",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108964.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "b751b24b2514357e",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Hitzekrise ernst nehmen - Hitzeschutz verbindlich, sozial gerecht und finanziell absichern",
+    "art": "Drucksache 21/6343",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/6343",
+        "url": "https://dserver.bundestag.de/btd/21/063/2106343.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "aecf1549511e709b",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 366 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8966",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8966",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108966.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "98554cac2135636f",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 360 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8960",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8960",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108960.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "981931a6e0928897",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 365 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8965",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8965",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108965.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
       "L": "nein"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
@@ -609,6 +935,116 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "7b2c6b072e29b149",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 358 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8958",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8958",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108958.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "705aa84f9600a809",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 357 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8957",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8957",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108957.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "68772b9ba511cd86",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gerechtigkeit beim Unterhaltsvorschuss herstellen - Hälftige Anrechnung des Kindergeldes umsetzen",
+    "art": "Drucksache 21/9070",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9070",
+        "url": "https://dserver.bundestag.de/btd/21/090/2109070.pdf"
+      },
+      {
+        "titel": "Ergebnis der namentlichen Abstimmung (12.11.2026)",
+        "url": "https://www.bundestag.de/resource/blob/1233028/20261112_5.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "gesamt": [
+      129,
+      447,
+      0
+    ],
+    "stimmen": {
+      "U": [
+        0,
+        200,
+        0
+      ],
+      "A": [
+        0,
+        137,
+        0
+      ],
+      "S": [
+        0,
+        108,
+        0
+      ],
+      "G": [
+        72,
+        0,
+        0
+      ],
+      "L": [
+        56,
+        0,
+        0
+      ]
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "66a01f1efb944e60",
     "ebene": "Bund",
     "datum": "2026-11-12",
@@ -640,6 +1076,87 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "66967a73cb570556",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 363 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8963",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8963",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108963.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "enth",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "648e789f7c201c90",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 354 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8954",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8954",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108954.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "61263647c276e80b",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 355 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8955",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8955",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108955.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "5bd7033d61af24e6",
     "ebene": "Bund",
     "datum": "2026-11-12",
@@ -662,6 +1179,33 @@
       "A": "nein",
       "S": "nein",
       "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "5b6febe6b82c69b9",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Gute Arbeit, tarifliche Standards und sichere Arbeitsplätze auch für das Leistungssportpersonal",
+    "art": "Drucksache 21/4540",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/4540",
+        "url": "https://dserver.bundestag.de/btd/21/045/2104540.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "enth",
+      "S": "nein",
+      "G": "enth",
       "L": "ja"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
@@ -694,6 +1238,33 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "4725803cda9d620c",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 359 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8959",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8959",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108959.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "42b2ba3685223141",
     "ebene": "Bund",
     "datum": "2026-11-12",
@@ -717,6 +1288,60 @@
       "S": "nein",
       "G": "ja",
       "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "41a8ef9992f359ac",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Für ein international rechtsverbindliches Instrument zum Verbot und zur Regulierung von autonomen Waffensystemen",
+    "art": "Drucksache 21/9071",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9071",
+        "url": "https://dserver.bundestag.de/btd/21/090/2109071.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "nein",
+      "A": "nein",
+      "S": "nein",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "3f5907077e47f144",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 361 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8961",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8961",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108961.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "nein",
+      "L": "ja"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
@@ -775,6 +1400,60 @@
       "S": "ja",
       "G": "nein",
       "L": "enth"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "16103f89b7f3892e",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 352 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8952",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8952",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108952.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "11fb81c6c0f1c490",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 353 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8953",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8953",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108953.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "ja",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
