@@ -749,6 +749,31 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "b708860aab1c0ab1",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG)",
+    "art": "Drucksache 21/9156",
+    "thema": "Allgemein",
+    "angenommen": false,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/9156",
+        "url": "https://dserver.bundestag.de/btd/21/091/2109156.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "gesamt": [
+      56,
+      456,
+      76
+    ],
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "aecf1549511e709b",
     "ebene": "Bund",
     "datum": "2026-11-12",
@@ -827,26 +852,6 @@
       "G": "ja",
       "L": "nein"
     },
-    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
-  },
-  {
-    "id": "92cc49eb0de1e2f4",
-    "ebene": "Bund",
-    "datum": "2026-11-12",
-    "titel": "Entschließungsantrag zum Gesetz zur Verbesserung der Startchancen von Kindern und zur Qualitätsentwicklung in der Kindertagesbetreuung (Startchancen- und Qualitätsentwicklungsgesetz - SCQEG)",
-    "art": "Drucksache 21/9156",
-    "thema": "Allgemein",
-    "angenommen": false,
-    "quellen": [
-      {
-        "titel": "Drucksache 21/9156",
-        "url": "https://dserver.bundestag.de/btd/21/091/2109156.pdf"
-      },
-      {
-        "titel": "Plenarprotokoll 21/108",
-        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
-      }
-    ],
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
