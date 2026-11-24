@@ -245,6 +245,33 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "fa80f7f99911d8ef",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 365 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8965",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8965",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108965.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "f690db300438a3f3",
     "ebene": "Bund",
     "datum": "2026-11-12",
@@ -695,33 +722,6 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
-    "id": "bd180702b09cfed6",
-    "ebene": "Bund",
-    "datum": "2026-11-12",
-    "titel": "Sammelübersicht 364 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
-    "art": "Drucksache 21/8964",
-    "thema": "Allgemein",
-    "angenommen": true,
-    "quellen": [
-      {
-        "titel": "Drucksache 21/8964",
-        "url": "https://dserver.bundestag.de/btd/21/089/2108964.pdf"
-      },
-      {
-        "titel": "Plenarprotokoll 21/108",
-        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
-      }
-    ],
-    "positionen": {
-      "U": "ja",
-      "A": "nein",
-      "S": "ja",
-      "G": "ja",
-      "L": "ja"
-    },
-    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
-  },
-  {
     "id": "b751b24b2514357e",
     "ebene": "Bund",
     "datum": "2026-11-12",
@@ -824,33 +824,6 @@
       "S": "ja",
       "G": "ja",
       "L": "ja"
-    },
-    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
-  },
-  {
-    "id": "981931a6e0928897",
-    "ebene": "Bund",
-    "datum": "2026-11-12",
-    "titel": "Sammelübersicht 365 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
-    "art": "Drucksache 21/8965",
-    "thema": "Allgemein",
-    "angenommen": true,
-    "quellen": [
-      {
-        "titel": "Drucksache 21/8965",
-        "url": "https://dserver.bundestag.de/btd/21/089/2108965.pdf"
-      },
-      {
-        "titel": "Plenarprotokoll 21/108",
-        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
-      }
-    ],
-    "positionen": {
-      "U": "ja",
-      "A": "nein",
-      "S": "ja",
-      "G": "ja",
-      "L": "nein"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
@@ -990,6 +963,33 @@
       "S": "ja",
       "G": "ja",
       "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
+    "id": "7026ebf3c3321c39",
+    "ebene": "Bund",
+    "datum": "2026-11-12",
+    "titel": "Sammelübersicht 364 des Petitionsausschusses (2. Ausschuss) über Anträge zu Petitionen",
+    "art": "Drucksache 21/8964",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8964",
+        "url": "https://dserver.bundestag.de/btd/21/089/2108964.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/108",
+        "url": "https://dserver.bundestag.de/btp/21/21108.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "ja",
+      "L": "ja"
     },
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
