@@ -1704,6 +1704,33 @@
     "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
   },
   {
+    "id": "d661731a2c0f76df",
+    "ebene": "Bund",
+    "datum": "2026-11-05",
+    "titel": "16. Bericht der Bundesregierung über ihre Menschenrechtspolitik",
+    "art": "Drucksache 21/8396",
+    "thema": "Allgemein",
+    "angenommen": true,
+    "quellen": [
+      {
+        "titel": "Drucksache 21/8396",
+        "url": "https://dserver.bundestag.de/btd/21/083/2108396.pdf"
+      },
+      {
+        "titel": "Plenarprotokoll 21/105",
+        "url": "https://dserver.bundestag.de/btp/21/21105.pdf"
+      }
+    ],
+    "positionen": {
+      "U": "ja",
+      "A": "nein",
+      "S": "ja",
+      "G": "nein",
+      "L": "nein"
+    },
+    "hinweis": "Vorläufiges Protokoll – Angaben können sich noch ändern."
+  },
+  {
     "id": "c3844eb691f99d1d",
     "ebene": "Bund",
     "datum": "2026-11-05",
